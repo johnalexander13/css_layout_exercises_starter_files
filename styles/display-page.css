@@ -1,0 +1,52 @@
+.main-container {
+	width: 800px;
+	height: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 0;
+}
+
+.container-one {	
+	height: 200px;	
+	width: 800px;	
+} 
+
+.container-two {
+	height: 300px;
+	width: 800px;
+}
+
+.box {
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.half {
+	height:200px;
+	width: 50%;
+}
+
+.third {
+	height: 300px;
+	width: 33.33%;
+}
+
+.green-box {
+	background-color: green;
+}
+
+.blue-box {
+	background-color: blue;
+}
+
+.gray-box {
+	background-color: gray;
+}
+
+.black-box {
+	background-color: black;
+}
+
+.orange-box {
+	background-color: orange;
+}
